@@ -15,4 +15,4 @@ I create stuff sometimes.
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/leonardo-carvalho-pires/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
-<img src="https://github.com/giovana-simas/giovana-simas/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://github.com/LeonardoPires2/blob/main/snake.svg" alt="Snake animation" />
