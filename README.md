@@ -16,5 +16,4 @@ I create stuff sometimes.
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/leonardo-carvalho-pires/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
-<img src="![download (2)](https://user-images.githubusercontent.com/107955919/227743667-d06c8fd3-a8d5-41bd-a284-96f736c9d7cc.png)" alt="Snake animation" />
-
+<img src="https://user-images.githubusercontent.com/107955919/227744385-fbe59419-65cd-4657-8bc6-de1483daded9.png">
