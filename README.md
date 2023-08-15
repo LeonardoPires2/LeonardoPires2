@@ -1,7 +1,7 @@
 ## Hi, Leonardo here! 👩🏾‍🚀
 I create stuff sometimes.
 
-- 🔭 software engineer back end 
+- 🔭 software engineer front-end
 - 💬 Ask me about..
 <img src="width=60em https://user-images.githubusercontent.com/107955919/227744385-fbe59419-65cd-4657-8bc6-de1483daded9.png">
 
