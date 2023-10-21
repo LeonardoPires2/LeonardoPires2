@@ -14,7 +14,7 @@ I create stuff sometimes.
 </div><br>	
 
 
-<div align="center">
+<div align="left">
     <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPires2&layout=compact&theme=github_dark"/>
     <img src="https://github-readme-stats.vercel.app/api?username=LeonardoPires2&theme=github_dark&hide_rank=true"/>
 </div>
