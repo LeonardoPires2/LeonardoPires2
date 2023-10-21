@@ -14,5 +14,10 @@ I create stuff sometimes.
 </div><br>	
 
 
+<div align="center">
+    <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPires2&layout=compact&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeonardoPires2&theme=github_dark&hide_rank=true"/>
+</div>
+
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/leonardo-carvalho-pires/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
