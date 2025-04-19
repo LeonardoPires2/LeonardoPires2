@@ -19,3 +19,5 @@
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/leonardo-carvalho-pires/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
+![snake gif](https://github.com/LeonardoPires2/LeonardoPires2/blob/output/github-contribution-grid-snake.svg)
+
