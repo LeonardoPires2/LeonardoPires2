@@ -1,7 +1,7 @@
 ## Olá, Leonardo aqui! 👨🏾‍🔬
-💻 Desenvolvedor de software com foco em desenvolvimento web, apaixonado por transformar ideias em soluções funcionais e bem projetadas.
+💻 Software developer focused on web development, passionate about transforming ideas into functional and well-designed solutions.
 
-👨🏾‍🏫 Atuo como professor voluntário nas horas vagas na Procempa, compartilhando conhecimento e incentivando novas gerações de profissionais na área de tecnologia.
+👨🏾‍🏫 I work as a volunteer teacher in my spare time at Procempa, sharing knowledge and encouraging new generations of professionals in the technology area.
   
 <img src="width=60em https://user-images.githubusercontent.com/107955919/227744385-fbe59419-65cd-4657-8bc6-de1483daded9.png">
 <div align="left">
