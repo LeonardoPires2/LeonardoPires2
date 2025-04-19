@@ -1,4 +1,4 @@
-## Olá, Leonardo aqui! 👨🏾‍🔬
+## Hello, Leonardo here! 👨🏾‍🔬
 💻 Software developer focused on web development, passionate about transforming ideas into functional and well-designed solutions.
 
 👨🏾‍🏫 I work as a volunteer teacher in my spare time at Procempa, sharing knowledge and encouraging new generations of professionals in the technology area.
